@@ -60,7 +60,6 @@ Smart-Home-Automation/
 │   └── Hardware_Connection_Guide.md
 │   └── Software_Installation_Guide.md
 │   └── Blynk_Setup_Instructions.md
-│   └── User_Manual.md
 ├── Circuit_Diagrams/
 │   └── Lighting_Circuit.png
 │   └── Door_Circuit.png
