@@ -1,7 +1,7 @@
 
-#define BLYNK_TEMPLATE_ID   "TMPL3kOyOaLpy"
-#define BLYNK_TEMPLATE_NAME "AMBIENT LIGHTING"
-#define BLYNK_AUTH_TOKEN    "MHsSyFNxqOklsFbcOHuDR3OLSpSJ76mq"
+#define BLYNK_TEMPLATE_ID   "......"
+#define BLYNK_TEMPLATE_NAME "........"               
+#define BLYNK_AUTH_TOKEN    ".........."
 #define RED_PIN   15 
 #define GREEN_PIN 2
 #define BLUE_PIN  19
