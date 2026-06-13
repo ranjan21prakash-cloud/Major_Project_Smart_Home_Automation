@@ -8,7 +8,7 @@
 
 #include <WiFi.h>             
 #include <BlynkSimpleEsp32.h>    
-char auth[] = BLYNK_AUTH_TOKEN; char ssid[] = "ranjan_5G"; char pass[] = "6498jyoti";
+char auth[] = BLYNK_AUTH_TOKEN; char ssid[] = "......."; char pass[] = ".......";
 
 void setup() {
   pinMode(RED_PIN, OUTPUT); pinMode(GREEN_PIN, OUTPUT); pinMode(BLUE_PIN, OUTPUT);
